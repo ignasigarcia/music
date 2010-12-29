@@ -1,0 +1,154 @@
+$this->songTags = array (
+  0 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '1',
+    3 => 'Channel 7',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/01-aufgang-channel_7.mp3',
+  ),
+  1 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '2',
+    3 => 'Channel 8',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/02-aufgang-channel_8.mp3',
+  ),
+  2 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '3',
+    3 => 'Barock',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/03-aufgang-barock.mp3',
+  ),
+  3 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '4',
+    3 => 'Sonar',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/04-aufgang-sonar.mp3',
+  ),
+  4 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '5',
+    3 => 'Pr&eacute;lude du pass&eacute;',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/05-aufgang-prelude_du_passe.mp3',
+  ),
+  5 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '6',
+    3 => 'Good Generation',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/06-aufgang-good_generation.mp3',
+  ),
+  6 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '7',
+    3 => '3 vitesses',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/07-aufgang-3_vitesses.mp3',
+  ),
+  7 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '8',
+    3 => 'Aufgang',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/08-aufgang-aufgang.mp3',
+  ),
+  8 => 
+  array (
+    0 => 'Aufgang',
+    1 => 'Aufgang',
+    2 => '9',
+    3 => 'Soumission',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Aufgang/Aufgang/09-aufgang-soumission.mp3',
+  ),
+  9 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '1',
+    3 => 'Lump',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/01_Lump.m4a',
+  ),
+  10 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '2',
+    3 => 'Quiet Drumming Interlude',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/02_Quiet_Drumming_Interlude.m4a',
+  ),
+  11 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '3',
+    3 => '10101',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/03_10101.m4a',
+  ),
+  12 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '4',
+    3 => 'Corduroy',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/04_Corduroy.m4a',
+  ),
+  13 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '5',
+    3 => 'Flute',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/05_Flute.m4a',
+  ),
+  14 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '6',
+    3 => 'Idiot',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/06_Idiot.m4a',
+  ),
+  15 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '7',
+    3 => 'Lumpette',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/07_Lumpette.m4a',
+  ),
+  16 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '8',
+    3 => 'Intentionally Left Blank',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/08_Intentionally_Left_Blank.m4a',
+  ),
+  17 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '9',
+    3 => 'Idiot Clapsolo',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/09_Idiot_Clapsolo.m4a',
+  ),
+  18 => 
+  array (
+    0 => 'Holden',
+    1 => 'The Idiots Are Winning',
+    2 => '10',
+    3 => 'Quiet Drumming',
+    4 => 'http://localhost/~tas/music/userlikeyou_music//Holden/The_Idiots_Are_Winning/10_Quiet_Drumming.m4a',
+  ),
+);
