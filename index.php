@@ -63,7 +63,14 @@
 		}
 		
 		player.addEventListener("ended", function() {
-			alert($("#1").id);
+			$('.ui-selectee').each( function(key, value) {
+				if ($(this).hasClass('ui-selected'))
+				{
+					$(this).removeClass('ui-selected');
+					$('.ui-selectee:eq('+parseInt(key+1)+')').addClass('ui-selected');
+					return false;
+				}
+			});
 			play(parseInt(currentSong) + 1);
 		});
 			
